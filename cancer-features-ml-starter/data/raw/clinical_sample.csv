@@ -1,0 +1,6 @@
+patient_id,diagnosis_date,age_at_diagnosis,ajcc_stage,er_status,pr_status,her2_status,overall_survival_days,event
+P001,2014-05-10,56,Stage II,Positive,Positive,Negative,1200,1
+P002,2016-08-22,43,Stage III,Negative,Negative,Positive,900,1
+P003,2013-11-03,67,Stage I,Positive,Negative,Negative,2200,0
+P004,2015-02-14,51,Stage II,Positive,Positive,Positive,1600,0
+P005,2017-07-29,60,Stage IV,Negative,Negative,Positive,400,1

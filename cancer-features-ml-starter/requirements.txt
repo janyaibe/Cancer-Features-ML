@@ -1,0 +1,9 @@
+pandas
+pyarrow
+scikit-learn
+mlflow
+great-expectations
+feast
+tensorflow-data-validation
+streamlit
+pyyaml
